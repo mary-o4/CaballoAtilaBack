@@ -4,7 +4,6 @@ public class Casilla {
     private boolean conPasto;
     private boolean fuiPisada;
 
-
     public Casilla(int fila, int columna, boolean conPasto) {
         this.fila = fila;
         this.columna = columna;
